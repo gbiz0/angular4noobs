@@ -9,18 +9,18 @@
 <!-- Title -->
 
 <p align="center">
-  <h2 align="center">AngularCLI4noobs</h2>
+  <h2 align="center">Angular4noobs</h2>
 
-  <h1 align="center"><img src="../.github/deno.png" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Imagem da linguagem" width="120"></h1>
   
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <a href="https://angular.io/"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
-    <a href="link-para-abrir-issue">Report Bug</a>
+    <a href="https://github.com/gbiz0/angular4noobs/issues">Report Bug</a>
     ·
-    <a href="link-para-abrir-issue">Request Feature</a>
+    <a href="https://github.com/gbiz0/angular4noobs/issues">Request Feature</a>
   </p>
 </p>
     
@@ -60,7 +60,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Nome Completo** - _Especialidade_ - [@nickname](seutwitter)
+- **Gustavo Bizo Jardim** - _Desenvolvedor de Software_ - [@gbiz0](gustavo_bizo)
 
 ---
 
