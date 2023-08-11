@@ -27,7 +27,7 @@
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
-Explique um pouco sobre o 4noobs que está desenvolvendo.
+O Angular é um poderoso framework de desenvolvimento de aplicações front-end mantido pela equipe do Google. Ele permite a criação de aplicações web dinâmicas, responsivas e de alto desempenho. Nesse repositório você terá em mãos todos os materiais para iniciar sua jornada nessa tecnologia muito requisitada no mercado!
 
 <!-- ROADMAP OF PROJECT -->
 
