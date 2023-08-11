@@ -33,18 +33,15 @@ Explique um pouco sobre o 4noobs que está desenvolvendo.
 
 ## ROADMAP
 
-- [Conteúdo 1](link-primeira-parte)
-- [Conteúdo 2](link-segunda-parte)
-- [Conteúdo 3](link-terceira-parte)
+- [Introdução](link-primeira-parte)
+  - [O que é?](link-sub-conteudo)
+  - [Instalação](link-sub-conteudo)
+- [Aplicação](link-segunda-parte)
+- [Finalização](link-terceira-parte)
   - [Sub-conteúdo](link-sub-conteudo)
   	- [Sub-conteúdo](link-sub-conteudo)
   - [Sub-conteúdo](link-sub-conteudo)
-- [Conteúdo 4](link-quarta-parte)
-- [Conteúdo 5](link-quinta-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-  
-  
+
 <!-- CONTRIBUTING -->
 
 ## Como Contribuir
@@ -60,7 +57,7 @@ são **extremamente apreciadas**
 
 ## Autores
 
-- **Gustavo Bizo Jardim** - _Desenvolvedor de Software_ - [@gbiz0](gustavo_bizo)
+- **Gustavo Bizo Jardim** - _Desenvolvedor de Software_ - [@gbiz0](https://twitter.com/gustavo_bizo)
 
 ---
 
