@@ -10,5 +10,16 @@ Para criar nosso mais novo projeto Angular, vamos primeiramente executar o coman
 ng new angular4noobs 
 ```
 
-Após isso, o projeto será criado automaticamente com todos os recursos necessários:
+Após isso, o projeto será criado automaticamente com todos os recursos necessários como demonstra a imagem a seguir:
 
+<img align="left" src="/content/image/image.png" alt="Recursos Angular">
+
+Para testar a sua aplicação, basta digitar o comando:
+
+```
+ng serve 
+```
+
+Logo aṕos, basta entrar no link do localhost proveniente do sistema:
+
+<img align="left" src="/content/image/terminal.png" alt="Porta do localhost">
