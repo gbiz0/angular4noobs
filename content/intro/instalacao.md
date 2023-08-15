@@ -14,14 +14,14 @@ Primeiro, você precisa ter o Node e o npm instalados na sua máquina. Para faci
 
 Para garantir que o Node e o npm estejam instalados em seu sistema Windows, vamos executar o comando abaixo em um prompt de comando, e o retorno deve ser a versão instalada na máquina.
 
-```
+``` bash
 node -v
 npm -v
 ```
 
 Depois, execute o seguinte comando para instalar a Angular CLI:
 
-```
+``` bash
 npm install @angular/cli
 ```
 
@@ -30,14 +30,14 @@ Caso você esteja utilizando o sistema da maçã, teremos que instalar o Node e 
 
 Após a instalação ser concluida, para garantir que o Node e o npm estejam instalados corretamente no macOS, vamos abrir o terminal e inserir os comandos abaixo, e o retorno deve ser a versão instalada na máquina.
 
-```
+``` bash
 node -v
 npm -v
 ```
 
 Depois, execute o seguinte comando para instalar a Angular CLI:
 
-```
+``` bash
 sudo npm install -g @angular/cli
 ```
 
@@ -46,32 +46,32 @@ Tá no Linux? Fica suave, para rodar nosso Angular aqui devemos instalar o Node,
 
 Primeiro, recarregue seu índice de pacotes local digitando:
 
-```
+``` bash
 sudo apt update
 ```
 
 Em seguida, instale o Node.js:
 
-```
+``` bash
 curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash - &&\
 sudo apt-get install -y nodejs
 ```
 
 Agora faça isso para instalar o pacote npm com o apt:
 
-```
+``` bash
 sudo apt install npm
 ```
 
 Agora finalmente podemos instalar o Angular conforme mostrado abaixo:
 
-```
+``` bash
 sudo npm install -g @angular/cli
 ```
 
 Depois de instalado, verifique a versão instalada do Angular usando o seguinte comando:
 
-```
+``` bash
 ng version
 ```
 
@@ -84,7 +84,7 @@ Please update your Node.js version or visit https://nodejs.org/ for additional i
 ```
 
 Basta instalar uma versão mais recente do seu NVM, usando o comando a seguir:
-```
+```bash
 nvm install 18
 ```
 ---

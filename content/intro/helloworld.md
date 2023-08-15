@@ -6,7 +6,7 @@ Bom queridos, nosso grande momento chegou! Vamos rodar a nossa primeira página 
 
 Para criar nosso mais novo projeto Angular, vamos primeiramente executar o comando _ng new_ seguido com o nome do projeto, como demonstrado a seguir:
 
-```
+```bash
 ng new angular4noobs 
 ```
 
@@ -16,7 +16,7 @@ Após isso, o projeto será criado automaticamente com todos os recursos necess�
 
 Para testar a sua aplicação, basta digitar o comando:
 
-```
+```bash
 ng serve 
 ```
 
