@@ -53,13 +53,8 @@ sudo apt update
 Em seguida, instale o Node.js:
 
 ```
-sudo apt install nodejs
-```
-
-Verifique se a instalação ocorreu bem consultando o node pelo número de versão dele:
-
-```
-nodejs -v
+curl -fsSL https://deb.nodesource.com/setup_19.x | sudo -E bash - &&\
+sudo apt-get install -y nodejs
 ```
 
 Agora faça isso para instalar o pacote npm com o apt:
@@ -68,16 +63,10 @@ Agora faça isso para instalar o pacote npm com o apt:
 sudo apt install npm
 ```
 
-Para garantir, atualize a versão npm para a versão mais recente executando o seguinte comando:
+Agora finalmente podemos instalar o Angular conforme mostrado abaixo:
 
 ```
-npm install  -g
-```
-
-Agora finalmente podemos instalar o Angular usando o npm conforme mostrado abaixo:
-
-```
-npm install -g @angular/cli
+sudo npm install -g @angular/cli
 ```
 
 Depois de instalado, verifique a versão instalada do Angular usando o seguinte comando:
@@ -86,9 +75,21 @@ Depois de instalado, verifique a versão instalada do Angular usando o seguinte 
 ng version
 ```
 
+Caso seja mostrado uma mensagem do tipo:
+```
+Node.js version v12.22.9 detected.
+The Angular CLI requires a minimum Node.js version of either v14.20, v16.14 or v18.10.
+
+Please update your Node.js version or visit https://nodejs.org/ for additional instructions.
+```
+
+Basta instalar uma versão mais recente do seu NVM, usando o comando a seguir:
+```
+nvm install 18
+```
 ---
 
-Que isso em fera, o Angular já está instalado corretamente? É hora de termos o nosso primeiro contato com a ferramenta!
+Que isso em fera, o Angular já está instalado corretamente? É hora de criarmos nosso primeiro projeto Angular!
 
 <p align="right">
   <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/intro/helloworld.md">Próximo -> Rodando uma página Angular</a>
