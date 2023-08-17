@@ -24,9 +24,9 @@ export class AppComponent {
 ```
 
 ---
-Deu para pegar a base das sitaxes exigidas para o funcionamento do projeto? Então vamos para o próximo tópico!
+Deu para pegar a base das sintaxes exigidas para o funcionamento do projeto? Então vamos para o próximo tópico!
 <p align="right">
-  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/diretivas.md">Próximo -> Services</a>
+  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/services.md">Próximo -> Services</a>
 </p>
 
 <p align="left">
