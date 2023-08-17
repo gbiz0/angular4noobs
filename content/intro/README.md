@@ -4,7 +4,6 @@
 
 ### História
 O Angular, lançado em 14 setembro 2016, é um framework de desenvolvimento de aplicações que foi desenvolvido e continuado pela equipe da Google. 
-ChatGPT
 
 Inicialmente, a equipe denominou a renovação do AngularJS como "Angular 2", porém essa nomenclatura gerou confusão entre os desenvolvedores.
 

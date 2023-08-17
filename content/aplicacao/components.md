@@ -59,14 +59,6 @@ O routing é o arquivo TS do roteamento, ele é responsável por criar as rotas 
 import { RouterModule, Routes } from '@angular/router';
 ```
 
-Um exemplo de declaration é o declaration do AppComponent, que é responsável por declarar o component, como é mostrado no exemplo abaixo:
-
-```ts
-declarations: [
-    AppComponent
-]
-```
-
 Um exemplo de rota é a rota de login, que é representada por um path e um component, como é mostrado no exemplo abaixo:
 
 ```ts
@@ -94,7 +86,7 @@ ng generate component nome-do-component --module=nome-do-modulo
 
 Já entendeu a importância dos components? Espero que sim! Agora vamos para o próximo tópico, que é sobre os templates do projeto.
 <p align="right">
-  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/models.md">Próximo -> Templates</a>
+  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/template.md">Próximo -> Templates</a>
 </p>
 
 <p align="left">
