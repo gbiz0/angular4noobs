@@ -1,2 +1,0 @@
-# Diretivas 
-Diretivas é o nome dado a um conjunto de instruções que são executadas pelo pré-processador. Elas são iniciadas pelo caractere # e são usadas para definir constantes, incluir arquivos, etc.

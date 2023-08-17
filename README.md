@@ -15,7 +15,7 @@
   
   <p align="center">
     <br />
-    <a href="https://angular.io/"><strong>Explore a documentação »</strong></a>
+    <a href="https://angular.io/docs"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/gbiz0/angular4noobs/issues">Report Bug</a>
@@ -35,11 +35,13 @@ O Angular é um poderoso framework de desenvolvimento de aplicações front-end 
 
 - [Introdução](https://github.com/gbiz0/angular4noobs/tree/main/content/intro)
   - [O que é?](https://github.com/gbiz0/angular4noobs/blob/main/content/intro/README.md)
+  - [Estrutura](https://github.com/gbiz0/angular4noobs/blob/main/content/intro/estrutura.md)
   - [Instalação](https://github.com/gbiz0/angular4noobs/blob/main/content/intro/instalacao.md)
+  - [Criando um projeto Angular](https://github.com/gbiz0/angular4noobs/blob/main/content/intro/helloworld.md)
 - [Aplicação](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao)
   - [Componentes](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/components.md)
   - [Templates](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/template.md)
-  - [Diretivas](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/diretivas.md)
+  - [Services](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/services.md)
   - [Rotas](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/rotas.md)
 - [Finalização](link-terceira-parte)
 

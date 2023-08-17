@@ -1,6 +1,6 @@
 # Template 
 
-Os modelos Angular possuem uma sintaxe especial que usa chaves ( { } ) para ligar propriedades de elementos HTML a valores de propriedade de componentes.
+Os modelos Angular possuem uma sintaxe especial que usa colchetes ( [] ) para ligar propriedades de elementos HTML a valores de propriedade de componentes.
 
 ## Pré-requisitos
 - Conceitos de Angular
@@ -26,7 +26,7 @@ export class AppComponent {
 ---
 Deu para pegar a base das sitaxes exigidas para o funcionamento do projeto? Então vamos para o próximo tópico!
 <p align="right">
-  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/diretivas.md">Próximo -> Diretivas</a>
+  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/diretivas.md">Próximo -> Services</a>
 </p>
 
 <p align="left">

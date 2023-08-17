@@ -20,10 +20,10 @@ Como dito anteriormente, o Angular representa uma reimaginação completa do ant
 
 ---
 
-E aí? Curtiu nosso querido Angular? Então bora por as mãos na massa (ou melhor, no teclado!), iniciaremos agora nosso guia de instalação!
+E aí? Curtiu nosso querido Angular? Agora precisamos entender como funciona a estrutura de desenvolvimento do framework!
 
 <p align="right">
-  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/intro/instalacao.md">Próximo -> Instalação</a>
+  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/intro/estrutura.md">Próximo -> Estrutura Angular</a>
 </p>
 
 <p align="left">
