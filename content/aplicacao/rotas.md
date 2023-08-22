@@ -33,3 +33,12 @@ Depois disso, vamos para o template que gostariamos de exibir os componentes ass
 </div>
 ```
 
+---
+Bom, aqui terminamos nosso último tópico de estudo básico do framework Angular!
+<p align="right">
+  <a href="https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/rotas.md">Próximo -> Rotas</a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/gbiz0/angular4noobs#roadmap">Voltar para o menu principal</a>
+</p>

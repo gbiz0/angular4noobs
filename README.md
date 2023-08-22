@@ -43,7 +43,7 @@ O Angular é um poderoso framework de desenvolvimento de aplicações front-end 
   - [Templates](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/template.md)
   - [Services](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/services.md)
   - [Rotas](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/rotas.md)
-- [Finalização](link-terceira-parte)
+- [Finalização](https://github.com/gbiz0/angular4noobs/blob/main/content/finalizacao/README.md)
 
 <!-- CONTRIBUTING -->
 
