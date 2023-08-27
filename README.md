@@ -66,7 +66,7 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Gustavo Bizo Jardim** - _Desenvolvedor de Software_ - [@gbiz0](https://twitter.com/gustavo_bizo)
-
+- **Luan Vitor Batista do Nascimento** - _Engenheiro de Software_ - [@Luanvbn](https://twitter.com/Luanvbn)
 ---
 
 <p align="center">
