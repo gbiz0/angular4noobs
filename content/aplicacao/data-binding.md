@@ -6,7 +6,7 @@ O data binding é uma técnica que permite estabelecer uma associação entre as
 
 ## Quais tipos de Data Binding nós temos no Angular?
 
-- [Interpolação]()
-- [Event Binding]()
-- [Property Binding]()
-- [Two way Data-Binding]()
+- [Interpolação](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/interpolacao.md)
+- [Event Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/eventBinding.md)
+- [Property Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/propertyBinding.md)
+- [Two way Data-Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/twoAwayDataBinding.md)
