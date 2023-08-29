@@ -39,6 +39,11 @@ O Angular é um poderoso framework de desenvolvimento de aplicações front-end 
   - [Instalação](https://github.com/gbiz0/angular4noobs/blob/main/content/intro/instalacao.md)
   - [Criando um projeto Angular](https://github.com/gbiz0/angular4noobs/blob/main/content/intro/helloworld.md)
 - [Aplicação](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao)
+  - [Data binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/data-binding.md)
+    - [Interpolação](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/interpolacao.md)
+    - [Event Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/eventBinding.md)
+    - [Property Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/propertyBinding.md)
+    - [Two Away Data Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/twoAwayDataBinding.md)
   - [Componentes](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/components.md)
   - [Templates](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/template.md)
   - [Services](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/services.md)
@@ -61,7 +66,7 @@ são **extremamente apreciadas**
 ## Autores
 
 - **Gustavo Bizo Jardim** - _Desenvolvedor de Software_ - [@gbiz0](https://twitter.com/gustavo_bizo)
-
+- **Luan Vitor Batista do Nascimento** - _Engenheiro de Software_ - [@Luanvbn](https://twitter.com/Luanvbn)
 ---
 
 <p align="center">
