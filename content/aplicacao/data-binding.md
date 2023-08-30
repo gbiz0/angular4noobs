@@ -10,3 +10,8 @@ O data binding é uma técnica que permite estabelecer uma associação entre as
 - [Event Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/eventBinding.md)
 - [Property Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/propertyBinding.md)
 - [Two way Data-Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/twoAwayDataBinding.md)
+- [Input Properties](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/inputProperties.md)
+- [Output Properties](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/outputProperties.md)
+
+
+

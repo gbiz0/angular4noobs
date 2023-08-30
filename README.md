@@ -44,6 +44,8 @@ O Angular é um poderoso framework de desenvolvimento de aplicações front-end 
     - [Event Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/eventBinding.md)
     - [Property Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/propertyBinding.md)
     - [Two Away Data Binding](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/twoAwayDataBinding.md)
+    - [Input Properties](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/inputProperties.md)
+    - [Output Properties](https://github.com/Luanvbn/angular4noobs/blob/feature/databinding/content/aplicacao/dataBinding/outputProperties.md)
   - [Componentes](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/components.md)
   - [Templates](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/template.md)
   - [Services](https://github.com/gbiz0/angular4noobs/blob/main/content/aplicacao/services.md)
@@ -67,6 +69,12 @@ são **extremamente apreciadas**
 
 - **Gustavo Bizo Jardim** - _Desenvolvedor de Software_ - [@gbiz0](https://twitter.com/gustavo_bizo)
 - **Luan Vitor Batista do Nascimento** - _Engenheiro de Software_ - [@Luanvbn](https://twitter.com/Luanvbn)
+---
+
+## Referências
+
+- **Loianne Gronner** 
+
 ---
 
 <p align="center">
